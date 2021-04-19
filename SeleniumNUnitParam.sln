@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 15.9.21.664
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumNUnitParam", "SeleniumNUnitParam\SeleniumNUnitParam.csproj", "{8CDD8387-B905-44A8-B5D5-07BB50E05BEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumNUnitParam", "SeleniumNUnitParam/SeleniumNUnitParam.csproj", "{8CDD8387-B905-44A8-B5D5-07BB50E05BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
